@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Danil
+- 👋 Hi, I'm Daniel Ni
 - 👀 I’m interested in coding.
 - 🌱 I’m currently Solidity and Golang.
 - 🫡 Keep building yourself.
