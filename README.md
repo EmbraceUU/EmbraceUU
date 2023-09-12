@@ -1,6 +1,5 @@
-- 👋 Hi, I'm Daniel Ni
-- 👀 I’m interested in coding.
-- 🌱 I’m currently Solidity and Golang.
+- 👋 Hi, I'm Daniel
+- 🌱 I’m currently Solidity and Golang developer.
 - 🫡 Keep building yourself.
 <!---
 EmbraceUU/EmbraceUU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
